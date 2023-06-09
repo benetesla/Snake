@@ -1,18 +1,30 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Snake game com java
+Jogo da “cobrinha” construída utilizando o Swing e a linguagem de programação java.
 
-## Folder Structure
+Estrutura de pastas: 
+Panel: Nesta pasta nós temos a classe GamePanel responsável por renderizar o painel do nosso game.
+Frame: Nesta pasta nós temos os “frames” do nosso jogo e a sua lógica.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Referência
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+ - [Google Snake Arcade](https://www.google.com/fbx?fbx=snake_arcade)
+ 
 
-## Dependency Management
+## Autores
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- [@benetesla](https://github.com/benetesla?tab=repositories)
+
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Stack utilizada
+
+**Back-end:** java
+
+
