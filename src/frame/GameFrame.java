@@ -1,8 +1,11 @@
+package frame;
 import javax.swing.JFrame;
+
+import panel.GamePanel;
 
 public class GameFrame extends JFrame {
 
-  GameFrame() {
+  public GameFrame() {
     this.add(new GamePanel());
     this.setTitle("Snake Game");
     this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
